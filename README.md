@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Developer with > 20 years industry experience, from charities to global brands across the entire spectrum of industries. I specialise in UI Engineering & User Experience and i'm passionate about helping to create great user experiences.
+
 <!--
 **hellraiserrob/hellraiserrob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
