@@ -1,6 +1,8 @@
-## Hi there 👋
+## Hello there 👋
 
-Developer with > 20 years industry experience, from charities to global brands across the entire spectrum of industries. I specialise in UI Engineering & User Experience and i'm passionate about helping to create great user experiences.
+I'm a ⚡developer with > ✨20 years✨ industry experience, across a wide range of industries. I specialise in frontend development and i'm passionate about helping to create great user experiences.
+
+See more about my professional experience on [linkedin](https://www.linkedin.com/in/frontendrob/) and checkout my [portfolio](http://portfolio.robertjamesphillips.com/) site.
 
 <!--
 **hellraiserrob/hellraiserrob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
